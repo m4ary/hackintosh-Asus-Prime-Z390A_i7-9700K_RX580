@@ -58,8 +58,8 @@ updating the firmware drive system for the Samsunge 970 EVO PLUS from  [here](ht
 
 
 ## Screenshots
-![system_info](google.com)
-![disk_speed](google.com)
+![system_info](https://github.com/m4ary/hackintosh-Asus-Prime-Z390A_i7-9700K_RX580/blob/master/screenshots/Screen%20Shot%202020-01-10%20at%202.52.25%20PM.png)
+![disk_speed](https://github.com/m4ary/hackintosh-Asus-Prime-Z390A_i7-9700K_RX580/blob/master/screenshots/DiskSpeedTest.png)
 
 
 
