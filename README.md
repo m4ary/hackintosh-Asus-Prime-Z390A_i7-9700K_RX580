@@ -64,6 +64,7 @@ updating the firmware drive system for the Samsunge 970 EVO PLUS from  [here](ht
 
 
 * References
+
 https://www.tonymacx86.com/threads/solved-stuck-with-log-showing-applenvme-assert-failed.223434/
 https://www.tonymacx86.com/threads/guide-usb-power-property-injection-for-sierra-and-later.222266/post-1728645
 https://www.reddit.com/r/hackintosh/comments/aprsbp/970_evo_plus_hackintosh/eo7odr3/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
